@@ -1,4 +1,4 @@
-# GAME
+# TIC TAC TOE
 It is Popular Game developed using java
 It is build using java Swing Component
 the Game TIC TAC TOE game has three outcomes
